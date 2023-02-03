@@ -2,6 +2,10 @@
 
 A C++ console-based version of the classic arcade game Snake.
 
+## Programming languages and technologies used
+- C++
+- Visual Studio Code
+
 ## Usage
 
 ### Screen
