@@ -1,0 +1,6 @@
+﻿  Program.cpp
+  SnakeGame.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\snake_xc_sb\snake\snakegame.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\snake_xc_sb\snake\snakegame.cpp(142): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Snake.vcxproj -> C:\Users\isi\OneDrive - Institut supérieur d'informatique\Documents\Code\Snake_XC_SB\Debug\Snake.exe

@@ -1,0 +1,27 @@
+﻿  Console.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\console.cpp(199): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ConsoleMenu.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\consolemenu.cpp(129): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ConsoleReader.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\consolereader.cpp(141): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ConsoleWriter.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\consolewriter.cpp(199): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Coordinate.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\coordinate.cpp(97): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Currency.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\currency.cpp(62): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Date.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\date.cpp(279): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  DateTime.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\datetime.cpp(179): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Math.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\math.cpp(100): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Position.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\position.cpp(82): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Random.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\random.cpp(23): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Strings.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\strings.cpp(84): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Time.cpp
+c:\users\isi\onedrive - institut supérieur d'informatique\documents\code\d03\utility\time.cpp(189): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
