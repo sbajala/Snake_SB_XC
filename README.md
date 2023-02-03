@@ -32,3 +32,6 @@ This is a console game, and the players could see some errors:
 - The snake is slow.
 - Sometimes the users must clear the input before typing a new input.
 - Users can change the size of the screen
+
+## Credits
+Created by Sharmaine Bajala and [Ximena Carrillo](https://github.com/ximenacarrillo).
